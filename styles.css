@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 200vh;
+}
+
+#notPartyTime {
+  color: purple;
+}
+
+.not-party-time {
+  color: green;
+}
+
+.coffee-image {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+nav {
+  background-color: blueviolet;
+  padding: 2rem;
+  position: sticky;
+  width: 100%;
+  top: 0;
+}
